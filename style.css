@@ -6,6 +6,7 @@ body{
     color: #EDB654ff;
     background-image: url("/images/background.jpg");
     background-size:cover;
+    background-position:bottom;
     text-align: center;
     padding: 50px 0px 500px 0px ;
 }
@@ -28,9 +29,10 @@ body{
     
 }
 .tandc{
-    font-size: 50px;
+    font-size: 40px;
     text-align: center;
     color:#569DCDff;
+    
 
 }
 
