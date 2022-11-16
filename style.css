@@ -1,0 +1,45 @@
+body{
+    margin: 0;
+    font-family: 'Orbitron', sans-serif;
+}
+.container{
+    color: #EDB654ff;
+    background-image: url("/images/background.jpg");
+    background-size:cover;
+    text-align: center;
+    padding: 50px 0px 500px 0px ;
+}
+.container h1{
+    text-shadow: 2px -2px 4px #312006ff;
+}
+#btn{
+    border: none;
+    padding: 6px 12px;
+    background: #EDB654ff;
+    font-family: inherit;
+    font-weight: 800;
+    color: #2D374Aff;
+}
+.cta-underline{
+    border-bottom: 4px solid white;
+}
+#main-logo{
+    width: 150px;
+    
+}
+.tandc{
+    font-size: 50px;
+    text-align: center;
+    color:#569DCDff;
+
+}
+
+
+
+
+/* SCSS HEX */
+/* $maximum-yellow-red: #EDB654ff;
+$aero: #6FB8E7ff;
+$charcoal: #2D374Aff;
+$carolina-blue: #569DCDff;
+$bistre: #312006ff; */
